@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS users_blog;
+DROP TABLE IF EXISTS posts;
